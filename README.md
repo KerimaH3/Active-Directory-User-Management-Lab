@@ -56,8 +56,9 @@ Built a windows Server 2022 Active Directory home lab using VirtualBox to simula
 - Promoted server to Domain Controller
 - Created domain:
 corp.local
-Screenshots
+  
 screenshots/domain-controller-setup/
+
 
 # 2. Configured DNS
 Configured DNS services automatically during AD DS installation.
