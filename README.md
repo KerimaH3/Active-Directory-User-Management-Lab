@@ -174,7 +174,11 @@ Successfully verified:
 
 
 # Skills Demonstrated
-- ctive Directory Administration
+- Active Directory Administration
+- Identity and Access Management (IAM)
+- File Sahre Management
+- Access permission Management
+- User Provisioning
 - Windows Server Administration
 - User and Group Management
 - DNS Configuration
