@@ -81,8 +81,9 @@ Created test users including:
 - Jarod Lee
 - Sophia Lucas
 - Olivia Noah
-Screenshots
-screenshots/users/
+
+
+ <img src="screenshots/users.png" width="600"> 
 
 # 5. Created Security Groups
 Created:
