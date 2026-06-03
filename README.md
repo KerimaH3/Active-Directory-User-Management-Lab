@@ -112,9 +112,10 @@ Verified communication between LAB-WIN11 and DC01.
 
 Commands used:
 
-ipconfig /all
-ping 192.168.56.10
-nslookup corp.local
+- ipconfig /all
+- ping 192.168.56.10
+- nslookup corp.local
+  
  <img src="screenshots//domain-join.png" width="600"> 
 
 # 9. Created Shared Folder
