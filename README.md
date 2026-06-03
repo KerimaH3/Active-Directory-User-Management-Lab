@@ -91,8 +91,8 @@ screenshots/users/
 # 5. Created Security Groups
 Created:
 
-HR_Users
-Assigned HR users to the group.
+IT_Admins
+Assigned IT Admins to the group.
 
 Screenshots
 screenshots/security-groups/
