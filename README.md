@@ -104,7 +104,7 @@ Joined LAB-WIN11 to:
 corp.local
 Verified successful authentication.
 
- <img src="screenshots//domain-join.png" width="600"> 
+ <img src="screenshots//network-testing.png" width="600"> 
 
 # 8. Verified Network Connectivity
 Verified communication between LAB-WIN11 and DC01.
@@ -114,7 +114,7 @@ Commands used:
 ipconfig /all
 ping 192.168.56.10
 nslookup corp.local
- <img src="screenshots//network-testingn.png" width="600"> 
+ <img src="screenshots//network-testing.png" width="600"> 
 
 # 9. Created Shared Folder
 Created:
