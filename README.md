@@ -134,7 +134,7 @@ Permissions:
 
 - Read
 - Change
- <img src="screenshots//share-permissions.png" width="600"> 
+ <img src="screenshots//share-permission.png" width="600"> 
 
 # 11. Configured NTFS Permissions
 Granted HR_Users:
