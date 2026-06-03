@@ -169,6 +169,10 @@ Successfully verified:
 
 <img src="screenshots///access-verification.png" width="600"> 
 
+# 13. Verified Domain Authentication 
+<img src="screenshots///domain-authen.png" width="600"> 
+
+
 # Skills Demonstrated
 - ctive Directory Administration
 - Windows Server Administration
