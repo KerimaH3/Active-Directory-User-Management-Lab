@@ -54,20 +54,16 @@ Built a windows Server 2022 Active Directory home lab using VirtualBox to simula
 # 1. Installed and Configured Active Directory
 - Installed AD DS role
 - Promoted server to Domain Controller
-- Created domain:
-corp.local
+- Created domain: corp.local
   
-screenshots/domain-controller-setup/
-
+ <img src="screenshots/domain-controller-setup.png" width="600"> 
 
 # 2. Configured DNS
 Configured DNS services automatically during AD DS installation.
 
-Verified DNS resolution using:
+Verified DNS resolution using: nslookup corp.local
 
-nslookup corp.local
-Screenshots
-screenshots/dns/
+ <img src="screenshots/dns.png" width="600"> 
 
 # 3. Created Organizational Units (OUs)
 Created department-based OUs:
@@ -75,8 +71,8 @@ Created department-based OUs:
 - HR
 - IT
 - Sales
-Screenshots
-screenshots/organizational-units/
+  
+ <img src="screenshots/organizational-units.png" width="600"> 
 
 # 4. Created Users
 Created test users including:
@@ -94,14 +90,13 @@ Created:
 IT_Admins
 Assigned IT Admins to the group.
 
-Screenshots
-screenshots/security-groups/
+ <img src="screenshots//security-groups.png" width="600"> 
 
 # 6. Moved Users into OUs
 Organized users into departmental OUs.
 
-Screenshots
-screenshots/user-management/
+ <img src="screenshots//user-management.png" width="600"> 
+
 
 # 7. Joined Windows 11 Workstation to Domain
 Joined LAB-WIN11 to:
@@ -109,8 +104,7 @@ Joined LAB-WIN11 to:
 corp.local
 Verified successful authentication.
 
-Screenshots
-screenshots/domain-join/
+ <img src="screenshots//domain-join.png" width="600"> 
 
 # 8. Verified Network Connectivity
 Verified communication between LAB-WIN11 and DC01.
@@ -120,8 +114,7 @@ Commands used:
 ipconfig /all
 ping 192.168.56.10
 nslookup corp.local
-Screenshots
-screenshots/network-testing/
+ <img src="screenshots//network-testingn.png" width="600"> 
 
 # 9. Created Shared Folder
 Created:
@@ -141,8 +134,7 @@ Permissions:
 
 - Read
 - Change
-Screenshots
-screenshots/share-permissions/
+ <img src="screenshots//share-permissions.png" width="600"> 
 
 # 11. Configured NTFS Permissions
 Granted HR_Users:
@@ -151,8 +143,8 @@ Granted HR_Users:
 - Read
 - Write
 - Read & Execute
-Screenshots
-screenshots/ntfs-permissions/
+- 
+<img src="screenshots//ntfs-permissions.png" width="600"> 
 
 # 12. Verified Access from Client Workstation
 Logged into LAB-WIN11 as:
@@ -170,8 +162,8 @@ Successfully verified:
 - Group Membership
 - Share Permissions
 - NTFS Permissions
-Screenshots
-screenshots/access-verification/
+
+<img src="screenshots///access-verification.png" width="600"> 
 
 # Skills Demonstrated
 - ctive Directory Administration
