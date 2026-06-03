@@ -1,3 +1,11 @@
+
+![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D6?logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?logo=windows11&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?logo=microsoft&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-00599C?logo=microsoft&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+
 # Active-Directory-User-Management-Lab
 # Overview
 Built a windows Server 2022 Active Directory home lab using VirtualBox to simulate a corporate IT environment. Configured Active Directory Domain Services (AD DS), DNS, Organizational Units (OUs), users, security groups, shared folders, and access permissions. Joined a windows workstation to the domain and verified user access to network resources. 
