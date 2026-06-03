@@ -3,13 +3,14 @@
 Built a windows Server 2022 Active Directory home lab using VirtualBox to simulate a corporate IT environment. Configured Active Directory Domain Services (AD DS), DNS, Organizational Units (OUs), users, security groups, shared folders, and access permissions. Joined a windows workstation to the domain and verified user access to network resources. 
 
 # Lab Environment
-# Domain Controller
+## Domain Controller
 
-# Item            Value
-  Hostname        DC01
-  OS	            Windows Server 2022
-  Domain	        corp.local
-  IP Address	    192.168.56.10
+| Item | Value |
+| --------|------| 
+| Hostname   | DC01                |
+| OS	       | Windows Server 2022 |
+| Domain	   | corp.local          |
+| IP Address | 192.168.56.10       |
 
 # Client Workstation
 
