@@ -6,7 +6,7 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 
- <img src="screenshots/domain-controller-setup.png" width="600"> 
+ <img src="screenshots/setup.png" width="700"> 
 
 # Active-Directory-User-Management-Lab
 # Overview
