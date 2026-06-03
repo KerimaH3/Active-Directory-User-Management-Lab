@@ -114,7 +114,7 @@ Commands used:
 ipconfig /all
 ping 192.168.56.10
 nslookup corp.local
- <img src="screenshots//network-testing.png" width="600"> 
+ <img src="screenshots//domain-join.png" width="600"> 
 
 # 9. Created Shared Folder
 Created:
@@ -123,8 +123,8 @@ C:\Shares\HR
 Shared as:
 
 HR-Share
-Screenshots
-screenshots/shared-folder/
+
+ <img src="screenshots//shared-folder.png" width="600"> 
 
 # 10. Configured Share Permissions
 Granted access to:
