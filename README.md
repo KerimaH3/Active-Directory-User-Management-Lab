@@ -7,19 +7,19 @@ Built a windows Server 2022 Active Directory home lab using VirtualBox to simula
 
 | Item | Value |
 | --------|------| 
-| Hostname   | DC01                |
-| OS	       | Windows Server 2022 |
-| Domain	   | corp.local          |
-| IP Address | 192.168.56.10       |
+| Hostname    | DC01                |
+| OS	        | Windows Server 2022 |
+| Domain	    | corp.local          |
+| IP Address  | 192.168.56.10       |
 
 # Client Workstation
 
 | Item | Value |
-| ---------- |------|
-| Hostname   | LAB-WIN11     |
-| OS         | Windows 11    |
-| Domain     | corp.local    |
-| IP Address | 192.168.56.20 |
+| -------------|------|
+| Hostname    | LAB-WIN11          |
+| OS          | Windows 11         |
+| Domain      | corp.local         |
+| IP Address  | 192.168.56.20      |
 
 # Virtualization Platform
 
