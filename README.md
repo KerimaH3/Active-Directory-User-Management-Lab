@@ -14,11 +14,12 @@ Built a windows Server 2022 Active Directory home lab using VirtualBox to simula
 
 # Client Workstation
 
-# Item            Value
-  Hostname        LAB-WIN11
-  OS              Windows 11
-  Domain          corp.local
-  IP Address      192.168.56.20
+| Item | Value |
+| ---------- |------|
+| Hostname   | LAB-WIN11     |
+| OS         | Windows 11    |
+| Domain     | corp.local    |
+| IP Address | 192.168.56.20 |
 
 # Virtualization Platform
 
